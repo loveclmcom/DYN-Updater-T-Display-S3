@@ -1,0 +1,13 @@
+# Ignore unrelated Arduino sketches and temp files
+sketch_jun23a/
+wifi_temp/
+wifi_temp - Copy/
+libraries/
+.claude/
+
+# Arduino build artifacts
+*.elf
+*.bin
+*.map
+build/
+.pio/
